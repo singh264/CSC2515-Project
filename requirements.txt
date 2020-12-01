@@ -1,0 +1,11 @@
+keras
+tensorflow
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+scipy
+autograd
+jupyter
+sklearn
