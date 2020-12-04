@@ -9,3 +9,5 @@ scipy
 autograd
 jupyter
 sklearn
+textblob
+nltk
