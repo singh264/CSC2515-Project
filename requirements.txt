@@ -12,5 +12,5 @@ sklearn
 textblob
 nltk
 torch
-json
 typing
+fastai==1.0.61
