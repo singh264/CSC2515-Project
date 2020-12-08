@@ -11,3 +11,7 @@ jupyter
 sklearn
 textblob
 nltk
+fastai==1.0.61
+torch
+json
+typing
